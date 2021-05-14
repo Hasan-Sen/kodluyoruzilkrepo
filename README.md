@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım repo
 
-![hsn](https://scontent.fsaw1-4.fna.fbcdn.net/v/t1.6435-9/175934339_10219875230176809_2677164050924597099_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=BVZ6Uti1QYQAX_NsJhQ&_nc_ht=scontent.fsaw1-4.fna&oh=4ca0ebeaffb7c9232efc03b47d1a233a&oe=60A30EF3)
+![hsn](https://scontent.fist12-1.fna.fbcdn.net/v/t1.6435-0/p180x540/175934339_10219875230176809_2677164050924597099_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=-b_Avsi58IUAX9L3CBn&_nc_ht=scontent.fist12-1.fna&tp=6&oh=1f384ef4dade21c3f787f87439543eb4&oe=60C598DA)
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
